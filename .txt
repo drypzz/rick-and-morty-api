@@ -1,0 +1,13 @@
+{
+    "Passos":{
+        "1" => "Clonar Rep. ('$ git clone git@github.com:drypzz/rick-and-morty-api.git')";
+
+        "2" => "Abrir o terminal na pasta do projeto";
+
+        "3" => "Dar o comando ('npm i')";
+
+        "4" => "Apos o download do ('npm i') utilizar o comando ('yarn start') para dar inicio ao projeto";
+
+        "5" => "Para finalizar o projeto ('CTRL + C')";
+    };
+};
