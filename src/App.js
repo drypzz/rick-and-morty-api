@@ -440,7 +440,7 @@ function App() {
 
   useEffect( ( ) => {
     setConteudo( listCharacter( ) )
-  });
+  }, []);
 
   return (
     <div className='App'>
